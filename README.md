@@ -1,5 +1,5 @@
 # Overview
-This program displays a map that has color coded points   with apartment numbers and the resident information.
+This program displays a map that has color coded points with apartment numbers and the resident information. This is using the apartment information that my wife and I manage. The resident information is confidential and was not included. Users will need to customize a lot of the variable information themselves. 
 
 Not yet implemented:
 * CSV Reading
